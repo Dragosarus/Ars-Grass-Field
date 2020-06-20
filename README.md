@@ -1,6 +1,7 @@
 # アルスの草畑
 
-- アルスの草畑.py: Plays variations of Ars's laughs ad infinitum based on samples in the audio folder -- endlessly.
+## Files
+- アルスの草畑.py: Plays variations of Ars's laughs ad infinitum based on samples in the audio folder.
 - generate_audio.py: Creates a .mp3 file of specified length instead of playing back.
 
 ## Dependencies:
@@ -11,4 +12,9 @@
   - [Youtube](https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w)
   - [Twitter](https://twitter.com/ars_almal)
 - Laugh samples
-  - [【2.0お披露目】まるいっていったやつ一列に並べ【アルス・アルマル/にじさんじ](https://www.youtube.com/watch?v=gITQQgU9kho) (first 16-ish minutes)
+  - [【2.0お披露目】まるいっていったやつ一列に並べ【アルス・アルマル/にじさんじ】](https://www.youtube.com/watch?v=gITQQgU9kho) (first 16-ish minutes)
+- BGM
+  - 魔王魂 
+    - [【魔王魂公式】フリーBGM素材 アコースティック32】](https://www.youtube.com/watch?v=vS-ojkKa5us)
+    - [Youtube](https://www.youtube.com/channel/UCvNnyy0_KxpJegpv3ytVM5Q) 
+    - [Jokersounds](https://maoudamashii.jokersounds.com/)
