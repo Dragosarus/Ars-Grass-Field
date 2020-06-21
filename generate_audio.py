@@ -149,7 +149,7 @@ for i in range(laugh_variations):
     print("{}: {} ({}%)".format(i+1, laugh_inhale_count[i], round(100 * laugh_inhale_count[i] / total_laugh_inhales,2)))
 print("Wheezes by variation:")
 for i in range(wheeze_variations):
-    print("{}: {} ({}%)".format(i+1, laugh_count[i], round(100 * wheeze_count[i] / total_wheezes,2)))
+    print("{}: {} ({}%)".format(i+1, wheeze_count[i], round(100 * wheeze_count[i] / total_wheezes,2)))
 print("Wheeze-inhales by variation:")
 for i in range(wheeze_variations):
     print("{}: {} ({}%)".format(i+1, wheeze_inhale_count[i], round(100 * wheeze_inhale_count[i] / total_wheeze_inhales,2)))
