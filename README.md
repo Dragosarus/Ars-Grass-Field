@@ -15,6 +15,6 @@
   - [【2.0お披露目】まるいっていったやつ一列に並べ【アルス・アルマル/にじさんじ】](https://www.youtube.com/watch?v=gITQQgU9kho) (first 16-ish minutes)
 - BGM
   - 魔王魂 
-    - [【魔王魂公式】フリーBGM素材 アコースティック32】](https://www.youtube.com/watch?v=vS-ojkKa5us)
+    - [フリー高音質BGM素材「アコースティック32」](https://maoudamashii.jokersounds.com/archives/bgm_maoudamashii_acoustic32.html)
     - [Youtube](https://www.youtube.com/channel/UCvNnyy0_KxpJegpv3ytVM5Q) 
     - [Jokersounds](https://maoudamashii.jokersounds.com/)
