@@ -1,6 +1,6 @@
 # アルスの草畑
 
-## Files
+## Files:
 - アルスの草畑.py: Plays variations of Ars's laughs ad infinitum based on samples in the audio folder.
 - generate_audio.py: Creates a .mp3 file of specified length instead of playing back.
 
