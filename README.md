@@ -6,6 +6,8 @@
 
 ## Dependencies:
 - [pydub](https://github.com/jiaaro/pydub)
+  - [simpleaudio](https://simpleaudio.readthedocs.io/en/latest/) (アルスの草畑.py)
+  - [ffmpeg](http://www.ffmpeg.org/) or [libav](http://libav.org/) (generate_audio.py)
 
 ## Sources:
 - Ars Almal / アルス・アルマル
