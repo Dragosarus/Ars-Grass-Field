@@ -1,5 +1,8 @@
 # アルスの草畑
 
+## Example:
+See file in the output folder or [this Youtube video](https://www.youtube.com/watch?v=jIME-GOPmR0)
+
 ## Files:
 - アルスの草畑.py: Plays variations of Ars's laughs ad infinitum based on samples in the audio folder.
 - generate_audio.py: Creates a .mp3 file of specified length instead of playing back.
